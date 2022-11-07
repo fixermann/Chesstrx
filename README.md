@@ -22,7 +22,7 @@ Check out today - https://shatranj.vercel.app/
 <br>
 We know that Chess games are widely popular today. Shatranj increases the incentive and the stake to play this classic ancient game with Web3 tokens we call Asharfi (ancient coins in India) $ASHF. Both players of the game that connect unsing our special matchmaking algorithm agree on a bid amount and the winner of the game takes all the $ASHF (game token) in the prize pool.
 
-![Header](repository-assets/Shatranj-2.jpeg)
+![Header](./shatranj-frontend/repository-assets/Shatranj-2.jpeg)
 
 
 
@@ -57,7 +57,7 @@ We know that Chess games are widely popular today. Shatranj increases the incent
 ## Implementation and Deployment
 The Frontend of the application is deployed over Vercel and it harnesses the capabilities of the aforementioned Technology Stack.
 
-![System Architecture](repository-assets/system-architecture.jpeg)
+![System Architecture](./shatranj-frontend/repository-assets/system-architecture.jpeg)
 
 ## Prize Tracks
  - GameFi 
